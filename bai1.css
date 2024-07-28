@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(193, 242, 176);
+    text-align: center;
+}
+form{
+    background-color: white;
+    text-align: left;
+    margin: 20px auto;
+    padding: 10px;
+    max-width: 500px;
+    box-shadow: 2px 5px 10px  rgb(40, 117, 15);
+}
+#nut-submit {
+    text-align: center;
+    background-color: rgb(183, 207, 48);
+    width: 500px;
+}
+#vung-chua-nut-submit{
+    text-align: center;
+}
+.duyen{
+    width: 495px;
+}
+img{
+    width:500px;
+}
